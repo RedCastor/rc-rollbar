@@ -1,0 +1,30 @@
+{
+  "name": "rc-galleria",
+  "version": "2.1.0",
+  "homepage": "https://github.com/redcastor/rc-rollbar",
+  "authors": [
+    "Andreas Bade <andreas.bade@identpro.de>",
+    "Auban le Grelle <auban@viamonkey.com>"
+  ],
+  "description": "AngularJS integration for Rollbar",
+  "keywords": [
+    "rollbar",
+    "angular",
+    "angularjs",
+    "exception handling"
+  ],
+  "main": [
+    "dist/rc-rollbar.js"
+  ],
+  "ignore": [
+    "**/.*",
+    "**/*.txt",
+    ".jscsrc",
+    ".jshintrc",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "angular": "^1.6.0"
+  }
+}
