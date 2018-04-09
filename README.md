@@ -1,4 +1,4 @@
-ng-rollbar
+rc-rollbar
 ==========
 
 [Rollbar](https://rollbar.com/) Angular wrapper for [Angular](https://angularjs.org/)
